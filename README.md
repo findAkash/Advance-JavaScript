@@ -31,5 +31,5 @@ docker run --name mongodb -p 27017:27017 -d mongo
 git clone https://github.com/findAkash/Advance-JavaScript
 cd Advance-JavaScript
 npm i
-npm run
+npm run dev
 ```
